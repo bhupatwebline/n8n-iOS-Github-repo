@@ -1,0 +1,12 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Key 1" : {
+      "extractionState" : "manual"
+    },
+    "login_title" : {
+      "extractionState" : "manual"
+    }
+  },
+  "version" : "1.0"
+}
