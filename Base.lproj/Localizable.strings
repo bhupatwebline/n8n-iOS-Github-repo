@@ -1,3 +1,15 @@
+/* Main App Strings */
+"app_name" = "My App";
+"welcome_message" = "Welcome to our application";
+"login_button" = "Sign In";
+"logout_button" = "Sign Out";
+"settings_title" = "Settings";
+"profile_title" = "My Profile";
 
-"login_title" = "Login";
+/* Error Messages */
+"error_network" = "Network error occurred";
+"error_invalid_input" = "Invalid input provided";
 
+/* Social Login */
+"google_login" = "Continue with Google";
+"facebook_login" = "Continue with Facebook";
