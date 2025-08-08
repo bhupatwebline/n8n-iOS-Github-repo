@@ -15,3 +15,17 @@ struct iOSLocalizationApp: App {
         }
     }
 }
+
+//struct iOSLocalizationApp: App {
+//    var body: some Scene {
+//        WindowGroup {
+//            ContentView()
+//        }
+//    }
+//    
+//    struct iOSLocalizationApp: App {
+//        var body: some Scene {
+//            WindowGroup {
+//                ContentView()
+//            }
+//        }
